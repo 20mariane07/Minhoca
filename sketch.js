@@ -1,4 +1,3 @@
-
 let cor;
 
 let circuloX; // horizontal
@@ -7,7 +6,7 @@ let circuloY; // vertical
 
 function setup() {
 
-createCanvas(900, 900); // width x height
+createCanvas(580, 550); // width x height
 
 background(color(100, 0, 0));
 
