@@ -7,7 +7,7 @@ let circuloY; // vertical
 
 function setup() {
 
-createCanvas(800, 800); // width x height
+createCanvas(900, 900); // width x height
 
 background(color(100, 0, 0));
 
